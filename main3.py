@@ -8,3 +8,4 @@ print("n---RESUMO DO CADASTRO---")
 print(f"Nome:{nome}")
 print(f"Idade atual:{idade}anos(terá:{proximo_ano}anos no ano que vem)")
 print(f"Pretensão Salarial:R${salario:.2f}")
+
