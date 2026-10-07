@@ -20,5 +20,5 @@ or (elemento_ataque == "planta" and elemento_defensor == "agua")
 else:
     mensagem = "dano normal aplicado."
         
-    print(f"{mensagem} Dano final decretado: {dano} HP.")
+print(f"{mensagem} Dano final decretado: {dano} HP.")
                         
