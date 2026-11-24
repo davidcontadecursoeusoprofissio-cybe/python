@@ -54,3 +54,14 @@
 #print("Primeiro produto:", produtos[0])
 
 #==========================================================
+#produtos = ["Mouse","Teclado","Monitor","Notebook"]
+#print("Último produto:",produtos[-1])
+#-1 = notebook, -2 = monitor
+#==========================================================
+#produtos =["Mouse","Teclado","Monitor"]
+#produtos[0] = "Mouse Gamer"
+#print(produtos)
+#==================================================
+#numeros = [1,2,3,4,5]
+#numeros.clear()
+#print(numeros)
