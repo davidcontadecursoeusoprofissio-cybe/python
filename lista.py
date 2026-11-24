@@ -42,3 +42,15 @@
 #else:
     #print("Produto não encontrado!")
     #print(produtos)
+    
+#======================================================
+
+#produtos = ["Celular","sofá","mesa"]
+#quantidae =len(produtos)
+#print("Quantidade de produtos:",quantidae)
+
+#==========================================================
+#produtos = ["Mouse","Teclado","Monitor"]
+#print("Primeiro produto:", produtos[0])
+
+#==========================================================
