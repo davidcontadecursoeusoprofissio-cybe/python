@@ -65,3 +65,12 @@
 #numeros = [1,2,3,4,5]
 #numeros.clear()
 #print(numeros)
+#===========================================================
+numeros = [100,200,300,400,500,600]
+numero = int(input("Digite o número:"))
+
+if numero in numeros:
+    posicao = numeros.index(numero)
+    print("Posição:",posicao)
+else:
+    print("número não encontrado!")
